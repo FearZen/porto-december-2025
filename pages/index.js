@@ -120,7 +120,7 @@ This project helped me improve:
               <li>
                 <a
                 className="bg-gradient-to-r from-cyan-500 text- to-teal-500 text-white px-4 py-2 border-none rounded-md ml-8"
-                href="https://drive.google.com/"
+                href="https://drive.google.com/file/d/1ovy79RWgtsbC-rxOwqaMp7iPSTwhKgyC/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
               >
